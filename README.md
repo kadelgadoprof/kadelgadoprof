@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil! 👋❤️
 
 Meu nome é Karina Delgado
-- Sou professora de tecnologia do ensino médio e uso a Plataforma Alura junto com os estudantes.
+- Sou professora de programação do ensino médio e uso a Plataforma Alura junto com os estudantes.
 
 **Você pode entrar em contato comigo pelo email: kdelgado@prof.educacao.sp.gov.br**
 
